@@ -1,0 +1,16 @@
+How to Use  The Music Player:
+1) Add file either by selecting the 'add' button or by clicking on 'File' ==> 'open' 
+2) The mp3 or wav file selected will be added to the Playlist on the left frame of the window.
+3) Select any song from the list on the left frame.
+4) Following step 3, the user can play the song by selecting the play button.
+5) If the user wishes to pause the song, the pause button must be clicked.
+6) Pressing the play button again continues the song from where it was paused.
+7) Pressing the stop button, stops the song completely and a new song should be selected.
+8) If play button is pressed without selecting a new song, the same song will play again from start.
+9) Rewind Button start's the song again.
+10) If user wishes to remove any song from the list, it can be done by remove button.
+11) While a song is playing, if muted by the user the volume becomes zero.
+12) Unmuting again sets the volume to a predefined value of 11, suitable to everyone.
+13) If user wishes to increase or decrease the volume it can be done by volume scale.
+14) Timers for Total length and Time remaining is provided indicating the duration of the file and duration remaining,respectively.
+  
