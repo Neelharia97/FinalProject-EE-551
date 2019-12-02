@@ -12,7 +12,3 @@ This project is based on a python code using python 3 and compatilble with pytho
 -Mutagen  
 -Pygame  
 
-## Task List:
-### Week 1:  
- - Learn about Pygame.  
- - Learn about Mutagen. 
